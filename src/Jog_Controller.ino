@@ -3,7 +3,6 @@
 // AJC
 // For Arduino Nano
 
-#include <SendOnlySoftwareSerial.h>
 #include <AnalogButtons.h>
 #include <Rotary.h>
 
